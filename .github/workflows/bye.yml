@@ -1,3 +1,4 @@
+# this is a comment
 name: Bye and Hello
 run-name: ${{ github.actor }} is running a workflow
 on: [push]
